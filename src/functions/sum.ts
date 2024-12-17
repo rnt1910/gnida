@@ -5,7 +5,7 @@
  *  - задай тип аргументам (num1 и num2)
  *  - задай возвращаемый тип функции (подсказка: `number`)
  */
-function sum(num1: number, num2: number) {
+function sum(num1: number, num2: number): number {
   return num1 + num2;
 }
 
